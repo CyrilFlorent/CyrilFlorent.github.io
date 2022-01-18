@@ -4,3 +4,10 @@
   width: 400px;
   height: 300px;
 }
+
+footer{
+  position:absolute;
+  bottom:0;
+  font-size: x-large;
+  padding-bottom: 20px;
+}
